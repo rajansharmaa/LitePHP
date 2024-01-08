@@ -1,0 +1,4 @@
+/storage/compiled/*
+/storage/cache/errors.log
+/storage/cache/*
+/vendor
